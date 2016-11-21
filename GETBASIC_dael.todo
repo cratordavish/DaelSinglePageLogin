@@ -1,0 +1,24 @@
+Simple Log-in site +dashboard -without database TODO
+ ✔ Get Sublime Text @done (16-11-22 01:37)
+ ☐ Make the super basic lay-out (partially there, not even close)
+   ☐ Login? (the look of it, yeah)
+   ☐ Register? (has visibility issues)
+   ☐ Logout?
+   ☐ Dashboard
+ ☐ Make JSON work. @critical
+ ☐ Maybe add cookies.
+ ✔ Make fancy ascii text shenanigans 'cuz I can @low  @done (16-11-22 02:04)
+
+
+o----------------------------------------------------o
+|               ~Fancy ASCII Text Time!~             |
+o----------------------------------------------------o
+ .._....___...___...___.........___...___...___...___.
+ ./_\..|.__|.|.__|.|_._|.||.||.|.__|.|_._|.|_._|.|.__|
+ //_\\.||__..||__...|.|..||_||.||__...|.|...|.|..||...
+ |._.|.|.__|.|__.|..|.|..|._.|.|.__|..|.|...|.|..||...
+ ||.||.||__...__||..|.|..||.||.||__...|.|...|.|..||__.
+ ||.||.|___|.|___|..|_|..||.||.|___|..|_|..|___|.|___|
+o-----------------------------------------------------o
+|              ~This footer sorta exists~             |
+o-----------------------------------------------------o
